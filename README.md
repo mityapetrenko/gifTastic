@@ -9,3 +9,4 @@ Where users can get help with your project
 Ill try to help as much as i can. Thanks
 Who maintains and contributes to the project
 This project is maintained by Dmitriy.
+https://mityapetrenko.github.io/gifTastic/
